@@ -14,7 +14,7 @@
 
 		"fan_banner": "fanBanner",
 		"fan_inter": "interFan",
-		"kemungkinan_fan": 1000,
+		"kemungkinan_fan": 0,
 		"interval_fan": 3,
 		"minimum_time_fan": 60,
 
