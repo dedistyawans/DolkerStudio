@@ -33,8 +33,8 @@
 		"kemungkinan_fan": 0,
 		"kemungkinan_unity": 0,
 		"kemungkinan_admob": 0,
-		"kemungkinan_max": 8000,
-		"kemungkinan_startapp": 1,
+		"kemungkinan_max": 90,
+		"kemungkinan_startapp": 10,
 
 		"vungle_app_id": "-",
 		"vungle_banner": "-",
