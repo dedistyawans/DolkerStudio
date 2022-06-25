@@ -1,6 +1,8 @@
 {
 	"ads":
 	{
+		"live_version_code" : 2,
+		
 		"splash_ad": "auto",
 		"banner_ad": "auto",
 		"mrec_ad": "auto",
