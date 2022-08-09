@@ -112,7 +112,7 @@
 		"admob_inter": "-",
 		"admob_init_wait": true,
 		"admob_banner_on" : true,
-		"admob_detail_banner_on" : true,
+		"admob_detail_banner_on" : false,
 		"admob_mrec_on" : true,
 		"admob_splash_on" : true,
 		"admob_inter_on" : true,
