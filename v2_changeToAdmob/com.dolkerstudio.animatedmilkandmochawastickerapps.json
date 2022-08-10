@@ -8,7 +8,7 @@
 
 		"timeout_load": 18,
 
-		"splash_ad": "auto",
+		"splash_ad": "off",
 		"banner_ad": "auto",
 		"banner_detail_ad": "auto",
 		"mrec_ad": "auto",
