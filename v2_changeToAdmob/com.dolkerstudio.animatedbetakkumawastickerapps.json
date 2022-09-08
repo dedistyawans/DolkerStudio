@@ -104,7 +104,7 @@
 		"unity_inter_on" : true,
 		"unity_must_live_playstore" : true,
 
-		"kemungkinan_admob": 1000,
+		"kemungkinan_admob": 1,
 		"minimum_time_admob": 301,
 		"interval_admob": 5,
 		"admob_open": "-",
@@ -118,8 +118,8 @@
 		"admob_inter_on" : true,
 		"admob_must_live_playstore" : true,
 
-		"kemungkinan_max": 10,
-		"minimum_time_max": 120,
+		"kemungkinan_max": 1000,
+		"minimum_time_max": 0,
 		"interval_max": 5,
 		"max_banner": "0c80310bf3971d5c",
 		"max_mrec": "-",
