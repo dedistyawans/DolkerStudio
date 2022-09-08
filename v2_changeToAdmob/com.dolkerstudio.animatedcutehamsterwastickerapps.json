@@ -118,8 +118,8 @@
 		"admob_inter_on" : true,
 		"admob_must_live_playstore" : true,
 
-		"kemungkinan_max": 100,
-		"minimum_time_max": 120,
+		"kemungkinan_max": 1000,
+		"minimum_time_max": 0,
 		"interval_max": 50,
 		"max_banner": "e9a6f5b2b94eed98",
 		"max_mrec": "-",
